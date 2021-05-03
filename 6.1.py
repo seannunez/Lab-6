@@ -29,7 +29,7 @@ def describe_mat(matrix):
            print("This Matrix is an Identity Matrix","\n")
 
        else:
-           print("This Matrix is Invalid","\n")
+           print(" ")
 
 describe_mat(M1)
 describe_mat(M2)
